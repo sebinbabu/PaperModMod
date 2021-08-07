@@ -29,6 +29,10 @@ body {
     background: var(--theme);
 }
 
+code {
+    font-family: "JetBrains Mono", monospace;
+}
+
 article,
 aside,
 figcaption,
