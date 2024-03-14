@@ -1,4 +1,4 @@
-<h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Hugo PaperModMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
 <br>
@@ -50,19 +50,19 @@
 -   Code Block Copy buttons
 -   No webpack, nodejs and other dependencies are required to edit the theme.
 
-Read Wiki For More Details => **[PaperMod - Features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**
+Read Wiki For More Details => **[PaperModMod - Features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**
 
 ---
 
 ## Install/Update 📥
 
-Read Wiki For More Details => **[PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**
+Read Wiki For More Details => **[PaperModMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**
 
 ---
 
 ## FAQs / How To's Guide 🙋
 
-Read Wiki For More Details => **[PaperMod-FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**
+Read Wiki For More Details => **[PaperModMod-FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**
 
 ---
 
